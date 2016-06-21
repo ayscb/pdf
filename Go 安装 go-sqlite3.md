@@ -1,4 +1,4 @@
-3安装go－sqlite3
+#安装go－sqlite3
 
 ## Mac OS X
 1. 通过 Homebrewn 安装：
@@ -12,7 +12,7 @@ brew install sqlite3
 ``` sh
 sudo port pkgconfig
 sudo port install sqlite3
-``
+```
 
 3. 如果你在安装后的使用过程遇到 PKG_CONFIG_PATH 有关的问题，可以参考：Mac OS X Lion 安装sqlite3问题。
 
