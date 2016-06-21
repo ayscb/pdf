@@ -29,7 +29,7 @@ sudo apt-get install libsqlite3-dev
 
 Windows下的安装也非常简单
 
-1. 到 SQLite3 的[下载页面](http://www.sqlite.org/download.html)，下载 Windows 下的预编译包 DLL 的压缩包（sqlite-dll-win32-x86-XXX.zip）。  
+1. 到 SQLite3 的[下载页面](http://www.sqlite.org/download.html ), 下载 Windows 下的预编译包 DLL 的压缩包（sqlite-dll-win32-x86-XXX.zip）。  
 2. 然后将里面的 DLL 文件拷贝到 system32 目录下即可。  
 
 另外，如果你已经安装 TMD 版的 GCC 编译器（http://tdm-gcc.tdragon.net/），那么你就不用再安装而可以直接进入下一步！
